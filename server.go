@@ -1,3 +1,6 @@
+// Based on the Go tutorial for building web apps.
+// https://golang.org/doc/articles/wiki/
+
 package main
 
 import (
